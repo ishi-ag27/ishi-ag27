@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishi Agarwal</h1>
 <h3 align="center">"From Algorithms to Applications – A CSE Explorer's Toolkit"</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jbmwy62epkaodtesdqcekekx7v4hb08zl851g51w&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishi-ag27&label=Profile%20views&color=0e75b6&style=flat" alt="ishi-ag27" /> </p>
 
